@@ -1,5 +1,6 @@
 name = "v20251104"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
-
+name = 'ddd77dd7-fa-c6ad'
 keep_vars = true
+
